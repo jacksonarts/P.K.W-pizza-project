@@ -8,11 +8,11 @@ This application helps customers to place order on different sizes of pizzas wit
 Use the following commands to start using this program :
 
 * `git clone https://github.com/franciskimari/pizza-project.git`
-* `cd pizza-Project`
+* `cd P.K.W pizza-Project`
 * `atom .`
 ## Behaviour Driven Developement
 **On loading the page**
-* User should see the form to fill while placing their preferred pizza
+* User should see the form to fill while placing their preferred pizza.
 
 **Checking pizza size and type**
 
