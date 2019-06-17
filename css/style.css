@@ -1,0 +1,119 @@
+
+
+@media only screen and (max-width: 600px) {
+  body {
+
+    font-family: sans-serif;
+  
+  }
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+
+
+#orderSummary {
+  display: none;
+  font-size: 25px;
+  background-color: #f07c6f;
+  margin-left: 70px;
+  padding: 10px;
+  margin-top: 15%;
+  width: 60%;
+}
+
+#pizzaCreator {
+  padding: 30px;
+
+}
+.sizeBox {
+  margin-top: 30px;
+  margin-botton: 30px;
+}
+.toppingsBox {
+  margin-top: 30px;
+}
+
+body {
+  background-color: #f0e46f;
+}
+
+.jumbotron {
+  background-color: #f07c6f;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+.no{
+	border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #92493A  ;
+  margin-top: 10px;
+}
+
+
+.footer{
+
+    background-color: black;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 20px;
+    color: #fff;
+
+
+
+
+}
+
+
+
+
+
+
+#order{
+  margin-bottom: 30px;
+  height: 200px;
+  background-color: white;
+}
+
+
+.btn{
+  background-color: green;
+}
+
+
+
+
+
+
