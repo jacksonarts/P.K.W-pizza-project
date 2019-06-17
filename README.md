@@ -1,4 +1,4 @@
-# Pizza Place Project
+# P.K.W Pizza Place
 #### This is a project on an application that helps customers to place orders  on different sizes of pizzas 17th July 2019
 #### By **Francis kimari**
 ## Description
@@ -7,24 +7,36 @@ This application helps customers to place order on different sizes of pizzas wit
 ## Setup/Installation Requirements
 Use the following commands to start using this program :
 
-* `git clone https://github.com/franciskimari/Delani-studio.git`
+* `git clone https://github.com/franciskimari/pizza-project.git`
 * `cd pizza-Project`
 * `atom .`
-##Behavior Driven Development
-* Below is how the The program should run*
-* loading the page*
+## Behaviour Driven Developement
+**On loading the page**
+* User should see the form to fill while placing their preferred pizza
 
-**The icons should disappear and one should get the descriptions of the design**
+**Checking pizza size and type**
 
-* Upon clicking the description button*
-**icon should disappear and  one should receive a description of the design**
+* User should check/enter the provided buttons while choosing properties of their preferred pizza, type, size
 
- * When one clicks product button**
- **icon should disappear and  one should receive the product**
+**Checking the pizza crusting**
+
+* User should be able to choose/check their preferred crusting
+
+**upon clicking submit button**
+
+* On Checkout, the customer is able to see the summary of all the orders they placed with their respective prices and finally the grand total charge
+
+**When there are no inputs for size and type**
+
+* There should be an alert telling the user to input the values
+
+**Upon Clicking delivery button**
+* User will be required to fill in a form with their details and the and then click the deliver button
+
+**On clicking the button**
+* User receives an alert notifying them the order will be delivered
 
 
- * subscription button*
- ** Alerts you to enter details & make subscription**
 
 *Technologies used*
 **HTML, CSS, bootstrap, JavaScript, jQuery**
