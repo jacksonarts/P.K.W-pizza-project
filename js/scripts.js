@@ -1,6 +1,6 @@
 //business logic
 
-function MyPizza(size, type){
+function MyPizza(size,type){
   this.pizzaSize = size;
   this.pizzaType = type;
   this.pizzaCrusting = [];
